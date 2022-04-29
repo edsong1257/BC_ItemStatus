@@ -1,0 +1,26 @@
+{
+  "id": "ea2a1ad5-33db-4a0b-a860-89b5c0c20ebc",
+  "_comment1": "put your own id",
+  "name": "BC_itemStatus",
+  "publisher": "DEV",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
